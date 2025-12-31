@@ -1,2 +1,3 @@
-This is a very simple Voice assistant built using Python, It can answer some basic queries and can open applications or webpages for u:) 
-Under Progress... 
+This is a very simple Voice assistant built using Python, 
+It can answer some basic queries and can open applications or webpages for u:) 
+Under Progress... 💻💻
